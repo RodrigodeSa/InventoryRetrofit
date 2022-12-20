@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EstoqueRetrofit</string>
+    <string name="name">Nome</string>
+    <string name="price">Price</string>
+    <string name="amount">Amount</string>
+    <string name="remove">Remove</string>
+</resources>
